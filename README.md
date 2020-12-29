@@ -9,6 +9,11 @@ and it is caused by the way the MIP Solver runs in Windows. However, the
 script can be run in Linux and MacOS and it will successfully exit with
 corresponding objective value and optimum route.
 
+output-1
 ![output1](output-1.jpg)
+
+output-2
 ![output2](output-2.jpg)
+
+plot
 ![plot](plot.png)
