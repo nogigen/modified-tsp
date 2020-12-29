@@ -15,6 +15,8 @@ corresponding objective value and optimum route.
 - plot.py plots the optimum route and the storms.
 - tsp.py solves the modified tsp problem with a DP approach. I used "MIP" library in my code.
 
+It should take around 1 minute to run tsp.py
+
 ## outputs after running tsp.py and plot.py
 
 
