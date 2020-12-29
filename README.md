@@ -9,11 +9,26 @@ and it is caused by the way the MIP Solver runs in Windows. However, the
 script can be run in Linux and MacOS and it will successfully exit with
 corresponding objective value and optimum route.
 
-output-1
-![output1](output-1.jpg)
+- data.txt is the generated output file from tsp.py which will be used in plot.py to create a plot. It also contains information about the optimum route, optimum cost etc.
+- data.xlsx is the input file which contains the information about coordinates of the islands/storms etc.
+- guide.pdf explains the problem and the solution.
+- plot.py plots the optimum route and the storms.
+- tsp.py solves the modified tsp problem with a DP approach. I used "MIP" library in my code.
 
-output-2
-![output2](output-2.jpg)
+## outputs after running tsp.py and plot.py
 
-plot
-![plot](plot.jpeg)
+
+
+| ![output-1.jpg](output-1.jpg) | 
+|:--:| 
+| *output-1* |
+
+| ![output-2.jpg](output-1.jpg) | 
+|:--:| 
+| *output-2* |
+
+| ![plot.jpeg](plot.jpeg) | 
+|:--:| 
+| *plot of the route and the storms* |
+
+
