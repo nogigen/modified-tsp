@@ -1,0 +1,2 @@
+# modified-tsp
+We are given a problem that is similar to a Traveling Salesman Problem with some constraints. We have 30 islands that we have to travel and since the road between them differs as Asphalt, Concrete and Gravel, the cost of traveling between 2 islands is different from the others. Also, coordinates of the islands can make time between 2 islands longer or shorter. In addition to that we have storm constraints so that when a storm happens between 2 islands, the truck cannot use that road. To solve this problem we mainly used a TSP algorithm
