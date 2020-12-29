@@ -8,3 +8,7 @@ our script in Windows operating systems. This issue is unrelated to our solution
 and it is caused by the way the MIP Solver runs in Windows. However, the
 script can be run in Linux and MacOS and it will successfully exit with
 corresponding objective value and optimum route.
+
+![output1](output-1.jpg)
+![output2](output-2.jpg)
+![plot](plot.png)
