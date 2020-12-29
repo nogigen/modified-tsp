@@ -13,7 +13,7 @@ corresponding objective value and optimum route.
 - data.xlsx is the input file which contains the information about coordinates of the islands/storms etc.
 - guide.pdf explains the problem and the solution.
 - plot.py plots the optimum route and the storms.
-- tsp.py solves the modified tsp problem with a DP approach. I used "MIP" library in my code.
+- tsp.py solves the modified tsp problem with linear programming. I used "MIP" library in my code.
 
 It should take around 1 minute to run tsp.py
 
