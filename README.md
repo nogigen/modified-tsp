@@ -16,4 +16,4 @@ output-2
 ![output2](output-2.jpg)
 
 plot
-![plot](plot.png)
+![plot](plot.jpeg)
