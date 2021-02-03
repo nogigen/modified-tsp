@@ -25,7 +25,7 @@ It should take around 1 minute to run tsp.py
 |:--:| 
 | *output-1* |
 
-| ![output-2.jpg](output-1.jpg) | 
+| ![output-2.jpg](output-2.jpg) | 
 |:--:| 
 | *output-2* |
 
